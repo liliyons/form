@@ -1,0 +1,42 @@
+
+img{
+    background-repeat: no-repeat;
+    float: left;
+    background-size: 700px;
+
+}
+
+.fieldBlock{
+    display: block;
+    width: 300px;
+    margin: 10px;
+    padding: 3px;
+    float: left;
+    background-color: #fcf9f9cf;
+    font-family: 'Roboto Slab', serif;
+}
+
+
+button{
+    padding: 10px 10px;
+    width: 250px;
+    margin: 35px 15px 20px 50px;
+    font-size: 1rem; font-weight: bold;
+    border-radius: .5rem;
+    background-color: #598759;
+    color: white;
+}
+
+span{
+    color: #598759;
+    font-weight: bold;
+}
+
+p{
+font-size: large;
+}
+
+.pass{
+    font-size: 10px;
+    color: rgb(244, 21, 21);
+}
